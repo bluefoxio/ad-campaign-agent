@@ -1,1 +1,1 @@
-# This repository has moved here: https://github.com/bluezoo/ad-campaign-agent
+# This repository has moved [HERE](https://github.com/bluezoo/video-ad-optimization-agent)
